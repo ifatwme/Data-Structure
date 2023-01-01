@@ -9,7 +9,13 @@ and now I liked to share this with you so we can learn something togehter. :)
 ## Guide
 This tree will be updated ...
 ```
+
 ├── Class
+│   ├── C10-double-linkedlist.cpp
+│   ├── C11-polynomial-representation-linkedlist.cpp
+│   ├── C12-polynomial-operations-linkedlist.cpp
+│   ├── C13-stack-linkedlist.cpp
+│   ├── C14-queue-linkedlist.cpp
 │   ├── C1-polynomials.cpp
 │   ├── C2-sparse-matrix-representation.cpp
 │   ├── C3-queue.cpp
@@ -21,10 +27,9 @@ This tree will be updated ...
 │   └── C9-circular-linked-list.cpp
 └── Tamrin
     ├── T1-sparse-operations.cpp
-    ├── T2-postfix-to-prefix
     ├── T2-postfix-to-prefix.cpp
-    ├── T3-prefix-to-postfix
     ├── T3-prefix-to-postfix.cpp
     ├── T4-postfix-to-infix.cpp
     └── T5-prefix-to-infix.cpp
+
 ```
