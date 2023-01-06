@@ -4,7 +4,7 @@ hi there guys!
 hope you're in peace!
 
 This is the source code that I've been working on during my third semester.  
-and now I liked to share this with you so we can learn something togehter. :)
+and now I liked to share this with you so we can learn something together. :)
 
 ## Guide
 This tree will be updated ...
@@ -16,6 +16,7 @@ This tree will be updated ...
 │   ├── C12-polynomial-operations-linkedlist.cpp
 │   ├── C13-stack-linkedlist.cpp
 │   ├── C14-queue-linkedlist.cpp
+│   ├── C15-trees.cpp
 │   ├── C1-polynomials.cpp
 │   ├── C2-sparse-matrix-representation.cpp
 │   ├── C3-queue.cpp
